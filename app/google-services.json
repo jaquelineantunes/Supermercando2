@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "638324364484",
+    "firebase_url": "https://supermercando2.firebaseio.com",
+    "project_id": "supermercando2",
+    "storage_bucket": "supermercando2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638324364484:android:1dcf42560a62cf3f",
+        "android_client_info": {
+          "package_name": "com.example.jaqueline.supermercando2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638324364484-r43fp72kts2dis6f2f1ejkf4flgtbvr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMituPlQrRP0wJpZx1MYdpcNoiieqWzVg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
